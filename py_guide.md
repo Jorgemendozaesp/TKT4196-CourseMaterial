@@ -38,11 +38,7 @@ $ conda update spyder
 ```
 
 ### Python packages
-- Generate requirements file:
-```
-$ pip freeze > requirements.txt  
-```
-- Create a conda environment with course requirements
+Create a conda environment with course requirements
 ```
 $ conda create --name tktpy python=3.7
 $ pip install -r tktreq.txt 
