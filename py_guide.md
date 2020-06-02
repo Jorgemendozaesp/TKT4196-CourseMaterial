@@ -38,9 +38,12 @@ $ conda update spyder
 ```
 
 ### Python packages
-Create a conda environment with course requirements
+Create a conda environment called, e.g. tktpy: 
 ```
 $ conda create --name tktpy python=3.7
+```
+Install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this link. To install them, type the following command:
+```
 $ pip install -r tktreq.txt 
 ```
 
