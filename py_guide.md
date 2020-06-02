@@ -53,7 +53,7 @@ It should show at least an environment called base (with a * next to it) and ano
 $ conda activate tktpy
 ```
 
-Next, you need to install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this [link](https://github.com/downloads/Jorgemendozaesp/TKT4196-CourseMaterial/master/tktreq.txt). Make sure that you save them in the folder of the current terminal session. To see the current path of your terminal session, type:
+Next, you need to install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this [link](curl -OL https://raw.githubusercontent.com/Jorgemendozaesp/TKT4196-CourseMaterial/master/tktreq.txt). Make sure that you save them in the folder of the current terminal session. To see the current path of your terminal session, type:
 ```
 $ pwd
 ```
