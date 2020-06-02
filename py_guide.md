@@ -42,7 +42,18 @@ Create a conda environment called, e.g. tktpy:
 ```
 $ conda create --name tktpy python=3.7
 ```
-Install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this [link](https://github.com/Jorgemendozaesp/TKT4196-CourseMaterial/blob/master/tktreq.txt). Make sure that you save them in the folder of the current terminal session. To see the current path of your terminal session, type:
+
+Once the process is finished, check that it has been successfully created:
+```
+$ conda info --envs
+```
+
+It should show at least an environment called base (with a * next to it) and another called tktpy. The * means that the current environment is base. We need to activate the environment we want to work at. For that, type the following:
+```
+$ conda activate tktpy
+```
+
+Next, you need to install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this [link](https://github.com/Jorgemendozaesp/TKT4196-CourseMaterial/blob/master/tktreq.txt). Make sure that you save them in the folder of the current terminal session. To see the current path of your terminal session, type:
 ```
 $ pwd
 ```
