@@ -1,6 +1,8 @@
 # Guide to install Python related software for the course.
 If you find mistakes/typos or links that do no longer function, please contact: 
+
 Jorge Mendoza (jorge.m.espinosa@ntnu.no)
+
 NTNU - PhD student
 
 ## Python
