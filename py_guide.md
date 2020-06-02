@@ -5,8 +5,7 @@ Jorge Mendoza (jorge.m.espinosa@ntnu.no)
 
 NTNU - PhD student
 
-## Python
-Make sure you have python 3.7 installed. To verify that, type the following command on your terminal:
+First, make sure that you have python 3.7 installed. To verify that, type the following command on a terminal:
 ```
 $ python -V
 ```
