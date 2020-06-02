@@ -5,6 +5,7 @@ Jorge Mendoza (jorge.m.espinosa@ntnu.no)
 
 NTNU - PhD student
 
+### Install Python 3.7
 First, make sure that you have python 3.7 installed. To verify that, type the following command on a terminal:
 ```
 $ python -V
