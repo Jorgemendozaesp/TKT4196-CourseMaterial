@@ -42,7 +42,15 @@ Create a conda environment called, e.g. tktpy:
 ```
 $ conda create --name tktpy python=3.7
 ```
-Install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this link. To install them, type the following command:
+Install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. You can download them from this [link](https://github.com/Jorgemendozaesp/TKT4196-CourseMaterial/blob/master/tktreq.txt). Make sure that you save them in the folder of the current terminal session. To see the current path of your terminal session, type:
+```
+$ pwd
+```
+You should store it in the path shown by the pwd command. Alternatively, you can store the file e.g. in the Desktop and change directory to it, typing the following command:
+```
+$ cd /Users/yourusername/Desktop
+
+To install them, type the following command:
 ```
 $ pip install -r tktreq.txt 
 ```
