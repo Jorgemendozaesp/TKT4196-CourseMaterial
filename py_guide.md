@@ -49,6 +49,7 @@ $ pwd
 You should store it in the path shown by the pwd command. Alternatively, you can store the file e.g. in the Desktop and change directory to it, typing the following command:
 ```
 $ cd /Users/yourusername/Desktop
+```
 
 To install them, type the following command:
 ```
