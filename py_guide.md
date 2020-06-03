@@ -63,7 +63,7 @@ To install them, type the following command:
 $ pip install -r tktreq.txt 
 ```
 
-## Jupyter
+### Jupyter
 Jupyter notebooks are created for pedagogic purpose. To use widgets in Jupyter-lab follow these instructions:
 * Install jupyter-lab (assuming that conda is installed): 
 ```
