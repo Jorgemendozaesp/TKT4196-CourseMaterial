@@ -6,8 +6,10 @@ title: INDEX
 # TKT 4196
 
 - [About the course](about)
-- [Getting started with Python](py_guide)
 - [Teaching team](team)
+- [Information the course, Autumn 2020](fall2020)
+- [Getting started with Python](py_guide)
+
 
 
 # NEWS
