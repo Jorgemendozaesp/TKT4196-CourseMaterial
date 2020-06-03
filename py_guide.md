@@ -1,10 +1,14 @@
-# Guide to install Python related software for the course.
+# Getting started with Python
+
+## Guide to install Python related software for the course.
+
 If you find mistakes/typos or links that do no longer function, please contact: 
 
 Jorge Mendoza (jorge.m.espinosa@ntnu.no)  
 NTNU - PhD student
 
 ### Install Python 3.7
+
 First, make sure that you have python 3.7 installed. To verify that, type the following command on a terminal:
 ```
 $ python -V
@@ -13,7 +17,9 @@ If you need to install Python 3.7 in your computer, here is a guide:
 + [For MacOS](https://opensource.com/article/19/5/python-3-default-mac)
 
 ### Install Anaconda
+
 #### MacOS
+
 Make sure you are working on a zsh terminal. Type the following command:
 ```
 $ chsh -s /bin/zsh
@@ -37,6 +43,7 @@ $ conda update spyder
 ```
 
 ### Python packages
+
 Create a conda environment called, e.g. tktpy: 
 ```
 $ conda create --name tktpy python=3.7
@@ -63,6 +70,7 @@ $ pip install -r tktreq.txt
 ```
 
 ### Jupyter
+
 Jupyter notebooks are created for pedagogic purpose. To use widgets in Jupyter-lab follow these instructions:
 * Install jupyter-lab (assuming that conda is installed): 
 ```
