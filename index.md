@@ -13,6 +13,6 @@ title: INDEX
 
 
 # NEWS
-Welcome to __TKT4196 Aspects of structural safety.__ The first lecture will take place on August, 18 at 14:15 in the room GL-HB H1.
+Welcome to __TKT4196 Aspects of structural safety!__ The first lecture will take place on August, 18 at 14:15 in the room GL-HB H1.
 
-As part of the course, we will use practical applications and examples to illustrate the theory. In order to solve these exercises, we will use Python as the main programming tool. Please, visit the section [Getting started with Python](py_guide) before the first practical class and make sure that you have installed all the software that we will be using.
+As part of the course, we will use practical applications and examples to illustrate the theory. In order to solve these exercises, we will use Python as the main programming tool. Please, visit the section [Getting started with Python](py_guide) before the first practical class, which is planned to take place August, 25 and make sure that you have installed all the software that we will be using.
