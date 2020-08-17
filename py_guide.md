@@ -37,6 +37,10 @@ To check installed Spyder version:
 ```
 $ conda list Spyder$
 ```
+If Spyder is not installed:
+```
+$ conda install spyder
+```
 To update Spyder:
 ```
 $ conda update spyder
@@ -80,7 +84,4 @@ $ conda install nodejs
 $ pip install ipywidgets
 $ jupyter nbextension enable --py widgetsnbextension
 $ jupyter labextension install @jupyter-widgets/jupyterlab-manager
-$ jupyter labextension install @jupyterlab/git
-$ pip install jupyterlab-git
-$ jupyter serverextension enable --py jupyterlab_git
 ```
