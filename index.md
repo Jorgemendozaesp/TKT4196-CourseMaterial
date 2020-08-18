@@ -11,6 +11,8 @@ title: INDEX
 - [Getting started with Python](py_guide)
 
 
+# Corona attendance list
+Due to the current pandemic, we encourage you to fill-in the following [form](https://forms.gle/Pn1Ar67fCja78CsP9) every lecture that you attend to. This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
 Welcome to __TKT4196 Aspects of structural safety!__ The first lecture will take place on August, 18 at 14:15 in the room GL-HB H1. The plan for the first week is the following:
