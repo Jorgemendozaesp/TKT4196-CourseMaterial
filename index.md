@@ -20,7 +20,7 @@ Welcome to __TKT4196 Aspects of structural safety!__ The first lecture will take
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
 |   Ch0    |  T   |  Introduction to the course. Performance criteria for structures |         K | ti. 19.08   | S4 |
-|Ch1(1.-2.)|  T   |  Evaluation of structural performance. A: Optimisation.          |         K | on. 22.08   | KJL1 |
+|Ch1(1.-2.)|  T   |  Evaluation of structural performance. A: Optimisation.          |         K | on. 19.08   | KJL1 |
 | E1.1.1   |  E   |  Optimization Example                                            |         K | fr. 22.08   | KJL1 |
 
 
