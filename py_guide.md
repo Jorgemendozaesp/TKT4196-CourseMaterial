@@ -78,9 +78,7 @@ $ pip install -r tktreq.txt
 Jupyter notebooks are created for pedagogic purpose. To use widgets in Jupyter-lab follow these instructions:
 * Install jupyter-lab (assuming that conda is installed): 
 ```
-$ conda install jupyter
-$ conda install jupyterlab
-$ conda install nodejs
+$ conda install -y jupyter jupyterlab nodejs
 $ pip install ipywidgets
 $ jupyter nbextension enable --py widgetsnbextension
 $ jupyter labextension install @jupyter-widgets/jupyterlab-manager
