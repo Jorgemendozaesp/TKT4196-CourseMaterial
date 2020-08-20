@@ -50,7 +50,7 @@ $ conda list Spyder$
 ```
 If Spyder is correctly installed, you should see the following output:
 ```
-# packages in environment at /Users/jorgemen/anaconda3/envs/tktpy:
+# packages in environment at /Users/usrname/anaconda3/envs/tktpy:
 #
 # Name                    Version                   Build  Channel
 spyder                    4.1.3            py37hc8dfbb8_0    conda-forge
