@@ -39,7 +39,7 @@ $ conda list Spyder$
 ```
 If Spyder is not installed:
 ```
-$ conda install spyder
+$ conda install -y spyder
 ```
 To update Spyder:
 ```
