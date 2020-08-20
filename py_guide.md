@@ -13,8 +13,9 @@ First, make sure that you have python 3.7 installed. To verify that, type the fo
 ```
 $ python -V
 ```
-If you need to install Python 3.7 in your computer, here is a guide:
-+ [For MacOS](https://opensource.com/article/19/5/python-3-default-mac)
+If you need to install Python 3.7 in your computer, here are some guides:
++ [NTNU guide for Windows, MacOS, and LINUX](https://innsida.ntnu.no/wiki/-/wiki/English/Installing+Python#section-Installing+Python-Install+the+latest+version+of+Python)
++ [For MacOS](https://opensource.com/article/19/5/python-3-default-mac) (in case you find it better/easier than the NTNU guide)
 
 ### Install Anaconda
 
