@@ -14,7 +14,7 @@ First, make sure that you have python 3.7 installed. To verify that, open a term
 + MacOS: open spotlight with the shortcut Cmd + spacebar, and type-in: terminal. Then, hit enter to open the terminal.
 + Windows: Start >> Program Files >> Accessories >> Command Prompt
 
-Once you have a terminal open, type the following command:
+Once you have a terminal window opened, type the following command (note that the dollar symbol indicates begining of command, but should not be typed in the command window):
 ```
 $ python -V
 ```
