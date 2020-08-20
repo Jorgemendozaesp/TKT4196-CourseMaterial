@@ -9,7 +9,12 @@ NTNU - PhD student
 
 ### Install Python 3.7
 
-First, make sure that you have python 3.7 installed. To verify that, type the following command on a terminal:
+First, make sure that you have python 3.7 installed. To verify that, open a terminal window. You may do this:
+
++ MacOS: open spotlight with the shortcut Cmd + spacebar, and type-in: terminal. Then, hit enter to open the terminal.
++ Windows: Start >> Program Files >> Accessories >> Command Prompt
+
+Once you have a terminal open, type the following command:
 ```
 $ python -V
 ```
