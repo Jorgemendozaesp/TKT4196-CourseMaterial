@@ -84,7 +84,7 @@ $ conda activate tktpy
 
 Next, you need to install the course requirements. These are the python packages that we will use during the course. They are stored in a file called 'tktreq.txt'. To download the file, type:
 ```
-curl -OL https://raw.githubusercontent.com/Jorgemendozaesp/TKT4196-CourseMaterial/master/tktreq.txt
+$ curl -OL https://raw.githubusercontent.com/Jorgemendozaesp/TKT4196-CourseMaterial/master/tktreq.txt
 ```
 
 To install them, type the following command:
