@@ -39,10 +39,10 @@ After you have installed it, run this command:
 $ conda init zsh
 ```
 
-#### For Windows: 
+#### Windows: 
 Use this [link](https://docs.anaconda.com/anaconda/install/windows/)
 
-
+#### Verify Spyder version
 
 To check installed Spyder version:
 ```
