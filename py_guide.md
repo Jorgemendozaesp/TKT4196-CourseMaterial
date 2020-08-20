@@ -48,11 +48,19 @@ To check installed Spyder version:
 ```
 $ conda list Spyder$
 ```
+If Spyder is correctly installed, you should see the following output:
+```
+# packages in environment at /Users/jorgemen/anaconda3/envs/tktpy:
+#
+# Name                    Version                   Build  Channel
+spyder                    4.1.3            py37hc8dfbb8_0    conda-forge
+```
+
 If Spyder is not installed:
 ```
 $ conda install -y spyder
 ```
-To update Spyder:
+To update Spyder to the latest version (20.08.20 is 4.1.3):
 ```
 $ conda update -y spyder
 ```
