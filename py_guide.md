@@ -54,7 +54,7 @@ $ conda install -y spyder
 ```
 To update Spyder:
 ```
-$ conda update spyder
+$ conda update -y spyder
 ```
 
 ### Python packages
