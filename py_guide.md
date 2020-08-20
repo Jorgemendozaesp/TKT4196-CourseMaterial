@@ -59,7 +59,7 @@ $ conda update spyder
 
 ### Python packages
 
-Create a conda environment called, e.g. tktpy: 
+Create a conda environment called tktpy: 
 ```
 $ conda create --name tktpy python=3.7
 ```
