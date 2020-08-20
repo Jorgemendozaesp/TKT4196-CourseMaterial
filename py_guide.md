@@ -23,6 +23,7 @@ If you need to install Python 3.7 in your computer, here are some guides:
 + [For MacOS](https://opensource.com/article/19/5/python-3-default-mac) (in case you find it better/easier than the NTNU guide)
 
 ### Install Anaconda
+Now install Anaconda.  This depends on your operating system:
 
 #### MacOS
 
@@ -32,12 +33,16 @@ $ chsh -s /bin/zsh
 ```
 And restart your terminal. It should say -- ~ -- -zsh on top. 
 
-Now install Anaconda.  You may follow [these instructions](https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97)
-
-Then run this command: 
+Now install Anaconda. Try the instructions in this [link](https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97) first. If you have troubleshooting, you may look at this other [link](https://docs.anaconda.com/anaconda/install/mac-os/#macos-graphical-install)
+After you have installed it, run this command: 
 ```
 $ conda init zsh
 ```
+
+#### For Windows: 
+Use this [link](https://docs.anaconda.com/anaconda/install/windows/)
+
+
 
 To check installed Spyder version:
 ```
