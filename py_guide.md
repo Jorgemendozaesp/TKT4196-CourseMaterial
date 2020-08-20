@@ -40,7 +40,7 @@ $ conda init zsh
 ```
 
 #### Windows: 
-Use this [link](https://docs.anaconda.com/anaconda/install/windows/)
+Use this [link](https://docs.anaconda.com/anaconda/install/windows/).
 
 ### Verify Spyder version
 
