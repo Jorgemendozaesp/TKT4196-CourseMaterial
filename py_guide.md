@@ -76,7 +76,7 @@ $ pip install -r tktreq.txt
 
 ### Jupyter
 
-Jupyter notebooks are created for pedagogic purpose. To use widgets in Jupyter-lab follow these instructions:
+Jupyter notebooks are created for pedagogic purpose. You can use Jupyter Notebooks or Jupyter-lab to view/edit notebooks. To use widgets (interactive boxes) follow these instructions:
 * Install jupyter-lab (assuming that conda is installed): 
 ```
 $ conda install -y jupyter jupyterlab nodejs
