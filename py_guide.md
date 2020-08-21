@@ -97,9 +97,13 @@ $ pip install -r tktreq.txt
 ### Jupyter
 
 Jupyter notebooks are created for pedagogic purpose. You can use Jupyter Notebooks or Jupyter-lab to view/edit notebooks. To use widgets (interactive boxes) follow these instructions:
-* Install jupyter-lab (assuming that conda is installed): 
+To install jupyter-lab (assuming that conda is installed): 
 ```
 $ conda install -y jupyter jupyterlab nodejs
+```
+
+Then, install the required widget extensions with the following commands:
+```
 $ pip install ipywidgets
 $ jupyter nbextension enable --py widgetsnbextension
 $ jupyter labextension install @jupyter-widgets/jupyterlab-manager
