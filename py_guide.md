@@ -16,7 +16,7 @@ First, make sure that you have python 3.7 installed. To verify that, open a term
   * Windows+R, then type cmd and press enter.
   * Start >> Program Files >> Accessories >> Command Prompt
 
-Once you have a terminal window opened, type the following command (note that the dollar symbol indicates begining of command, but should not be typed in the command window):
+Once you have a terminal window opened, type the following command (note that the dollar symbol indicates beginning of command, but should not be typed in the command window):
 ```
 $ python -V
 ```
@@ -35,7 +35,7 @@ $ chsh -s /bin/zsh
 ```
 And restart your terminal. It should say -- ~ -- -zsh on top. 
 
-Now install Anaconda. Try the instructions in this [link](https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97) first. If you have troubleshooting, you may look at this other [link](https://docs.anaconda.com/anaconda/install/mac-os/#macos-graphical-install)
+Now install Anaconda. Try the instructions in this [link](https://towardsdatascience.com/how-to-successfully-install-anaconda-on-a-mac-and-actually-get-it-to-work-53ce18025f97) first. If you have trouble doing it this way, you may look at this other [link](https://docs.anaconda.com/anaconda/install/mac-os/#macos-graphical-install). 
 After you have installed it, run this command: 
 ```
 $ conda init zsh
