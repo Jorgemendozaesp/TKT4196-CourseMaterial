@@ -21,8 +21,7 @@ The plan for the first week is the following:
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
 |   Jupyter-notebook   |  P   |  Introduction Python |         M | ti. 25.08   | S4 |
-|Ch1 (3.-5.)
-E1.1.(2.-5.)|  T/E   | Evaluation of structural performance. B: Acceptance.
+|Ch1 (3.-5.);E1.1.(2.-5.)|  T/E   | Evaluation of structural performance. B: Acceptance.
 Optimization Example (optimization+acceptance)         |         K | on. 26.08   | KJL1 |
 | P1.1.1   |  P   |  Optimization Example                                            |         K | fr. 28.08   | KJL1 |
 
