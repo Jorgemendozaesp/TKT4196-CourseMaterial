@@ -16,7 +16,7 @@ Due to the current pandemic, we encourage you to fill-in the following [form](ht
 
 # NEWS
 ## Week 35
-The plan for the first week is the following:
+The plan for this week is the following:
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
