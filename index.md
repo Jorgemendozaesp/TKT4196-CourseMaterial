@@ -16,6 +16,8 @@ Due to the current pandemic, we encourage you to fill-in the following [form](ht
 
 # NEWS
 ## Week 36
+NOTE: The solution to the practical 1.1.1 of the first chapter contained a mistake, which is now solved in the last version of the compendium in blackboard. You are very welcome to inform us about typos or mistakes in the compendium. 
+
 The plan for this week is the following:
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
@@ -24,6 +26,4 @@ The plan for this week is the following:
 |Ch2 (1.-5.)| T	  | Structural reliability methods: Monte Carlo simulation    |   K	     | on. 02.09   |	KJL1    |
 | CE1      |	P	  | Self study/ Q&A	                                          |   M      | fr. 04.09	 |  KJL1    |
 
-
-
-As part of the course, we will use practical applications and examples to illustrate the theory. In order to solve these exercises, we will use Python as the main programming tool. Please, visit the section [Getting started with Python](py_guide) before the first practical class, which is planned to take place this Tuesday 25.08, and make sure that you have installed all the listed software. The first practical class is a tutorial about different aspects of Python that we will be using during the course. The practical uses a Jupyter notebook, which you can download from [Blackboard](https://ntnu.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&mode=designer&content_id=_1083991_1&course_id=_24014_1&framesetWrapped=true).
+For the first compulsory exercise, you need to organize yourselves into groups of 3 to 5 people. If you need assistance finding a group let us know! We will make sure that every body is part of a group. Groups do not necessarily need to be kept fixed throughout the whole course. Please bring your laptops to the practical classes and check that you have the correct Python and Spyder versions installed. Visit the section [Getting started with Python](py_guide) if you have not done so. 
