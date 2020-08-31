@@ -16,7 +16,7 @@ Due to the current pandemic, we encourage you to fill-in the following [form](ht
 
 # NEWS
 ## Week 36
-NOTE: The solution to the practical 1.1.1 of the first chapter contained a mistake, which is now solved in the last version of the compendium in blackboard. You are very welcome to inform us about typos or mistakes in the compendium. 
+NOTE: The solution to the practical 1.1. of the first chapter contained a mistake, which is now solved in the last version of the compendium in Blackboard. You are very welcome to inform us about typos or mistakes that you find in the compendium. 
 
 The plan for this week is the following:
 
