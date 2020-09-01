@@ -12,7 +12,9 @@ title: INDEX
 
 
 # Corona attendance list
-Due to the current pandemic, we encourage you to fill-in the following [form](https://forms.gle/Pn1Ar67fCja78CsP9) every lecture that you attend to. This helps NTNU inform the corresponding health institution regarding corona cases. 
+Due to the current pandemic, we encourage you to register attendance using the following QR-code:
+![alt text](https://github.com/Jorgemendozaesp/TKT4196-CourseMaterial/blob/master/QR%20Code%20-%20Corona%20form.png?raw=true)
+This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
 ## Week 36
