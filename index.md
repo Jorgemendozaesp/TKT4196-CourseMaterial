@@ -12,7 +12,7 @@ title: INDEX
 
 
 # Corona attendance list
-Due to the current pandemic, we encourage you to register attendance by scanning the following QR-code:
+Due to the current pandemic, we encourage you to register attendance (every lecture that you attend to) by filling-in the following [form](https://forms.gle/Pn1Ar67fCja78CsP9), scanning the QR-code at the entrance of each classroom, or scanning the following QR-code :
 
 ![alt text](https://github.com/Jorgemendozaesp/TKT4196-CourseMaterial/blob/master/QR%20Code%20-%20Corona%20form.png?raw=true)
 
