@@ -20,7 +20,7 @@ This helps NTNU inform the corresponding health institution regarding corona cas
 
 # NEWS
 ## Week 36
-NOTE: The solution to P1.1. contained a mistake, which is now solved in the last version of the compendium in Blackboard. You are very welcome to inform us about typos or mistakes that you find in the compendium. 
+NOTE: The solution to P1.1. contained a mistake, which is now solved in the latest version of the compendium in Blackboard. You are very welcome to inform us about typos or mistakes that you find in the compendium. 
 
 The plan for this week is the following:
 
