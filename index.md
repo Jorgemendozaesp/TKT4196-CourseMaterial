@@ -21,7 +21,7 @@ This helps NTNU inform the corresponding health institution regarding corona cas
 # NEWS
 ## Week 37
 
-The plan for this week is the following:
+The plan for this week is visit the theory of MCS, including how to consider correlated random variables and any probabilistic distribution. There will also be a practical session on Wednesday to work on the compulsory exercise. It is recommended to work on it before this session to address all the questions you may have then, since there will only be an additionally (shorter) Q&A the following week.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
