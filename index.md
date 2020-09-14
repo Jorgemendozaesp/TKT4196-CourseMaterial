@@ -19,13 +19,13 @@ Due to the current pandemic, we encourage you to register attendance (every lect
 This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
-## Week 37
+## Week 38
 
-The plan for this week is visit the theory of MCS, including how to consider correlated random variables and any probabilistic distribution. There will also be a practical session on Wednesday to work on the compulsory exercise. It is recommended to work on it before this session to address all the questions you may have then, since there will only be an additionally (shorter) Q&A the following week.
+The plan for this week is to get hands on with the MCS practical. It is possible to ask questions about the compulsory execise, but these questions should be gathered prior to the class. The time of the practical class should be used to work on the MCS practical P2. On Friday, we begin with a new chapter on First Order Reliability Methods (FORM). FORM is a method used to estimate probability of failures in a fast and accurate manner, based on a linear approximation.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| E2.(1.-2.)|E    |	Structural reliability methods + MCS                      |	  K 	   | ti. 08.09	 |  S4      |
-|CE1       | P	  | Self study/ Q&A                                           |   M	     | on. 09.09   |	KJL1    |
-| Ch2 (6.-8.)|	T	  | Structural reliability methods (Monte Carlo Simulation) |   K      | fr. 11.09	 |  KJL1    |
+| P2       | P    |	Practical Exercise – MCS                                  |	  M 	   | ti. 15.09	 |  S4      |
+| P2       | P	  | Practical Exercise – MCS                                  |   M	     | on. 16.09   |	KJL1    |
+| Ch3 (1.-2.)|	T	  | Structural Reliability (FORM)                           |   K      | fr. 18.09	 |  KJL1    |
 
