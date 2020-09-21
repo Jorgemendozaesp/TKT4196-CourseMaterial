@@ -25,7 +25,6 @@ The plan for this week is to get hands on with the MCS practical. It is possible
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| CE2      | E    |	Collection of first compulsory exercise. Introduction to second compulsory exercise (optmization + FORM + MCS)
-         |	  M 	   | ti. 22.09	 |  S4      |
+| CE2      | E    |	Collection of first compulsory exercise. Introduction to second compulsory exercise (optmization + FORM + MCS)  |	  M 	   | ti. 22.09	 |  S4      |
 | E3.1     | E	  | Exercise on Structural Reliability (FORM)                 |   K	     | on. 23.09   |	KJL1    |
 | E3.1     | E	  | Implementation of FORM example in Python                  |   M      | fr. 25.09	 |  KJL1    |
