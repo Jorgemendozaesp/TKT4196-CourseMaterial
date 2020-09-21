@@ -21,7 +21,7 @@ This helps NTNU inform the corresponding health institution regarding corona cas
 # NEWS
 ## Week 38
 
-The plan for this week is to get hands on with the MCS practical. It is possible to ask questions about the compulsory execise, but these questions should be gathered prior to the class. The time of the practical class should be used to work on the MCS practical P2. On Friday, we begin with a new chapter on First Order Reliability Methods (FORM). FORM is a method used to estimate probability of failures in a fast and accurate manner, based on a linear approximation.
+The plan for this week is to introduce the second compulsory exercise and to get hands on with the implementation of FORM in Python.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
