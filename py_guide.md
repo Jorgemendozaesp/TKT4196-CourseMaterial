@@ -11,10 +11,10 @@ NTNU - PhD student
 
 First, make sure that you have python 3.7 installed. To verify that, open a terminal window. You may do this:
 
-+ MacOS: open spotlight with the shortcut Cmd + spacebar, and type-in: *terminal*. Then, hit enter to open the terminal.
-+ Windows: One of the following two options: 
-  * Windows+R, then type-in *cmd* and press enter.
-  * Start >> Program Files >> Accessories >> Command Prompt
+    > + MacOS: open spotlight with the shortcut Cmd + spacebar, and type-in: *terminal*. Then, hit enter to open the terminal.
+      + Windows: One of the following two options: 
+        + Windows+R, then type-in *cmd* and press enter.
+        + Start >> Program Files >> Accessories >> Command Prompt
 
 Once you have a terminal window opened, type the following command (note that the dollar symbol indicates beginning of command, but should not be typed in the command window):
 ```
