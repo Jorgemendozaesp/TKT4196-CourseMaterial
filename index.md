@@ -21,10 +21,10 @@ This helps NTNU inform the corresponding health institution regarding corona cas
 # NEWS
 ## Week 38
 
-The plan for this week is to introduce the second compulsory exercise and to get hands on with the implementation of FORM in Python.
+This week we begin a new topic in Chapter 4. Furthermore, we spend two practical sessions working on the 2nd compulsory exercise. To make this as useful as possible for you, make sure that you understand and can reproduce the exercises of Chapter 3. 
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| CE2      | E    |	Collection of first compulsory exercise. Introduction to second compulsory exercise (optmization + FORM + MCS)  |	  M 	   | ti. 22.09	 |  S4      |
-| E3.1     | E	  | Exercise on Structural Reliability (FORM)                 |   K	     | on. 23.09   |	KJL1    |
-| E3.1     | E	  | Implementation of FORM example in Python                  |   M      | fr. 25.09	 |  KJL1    |
+| CE2      | P    |	Self study / Q&A Sessions                                 |	  M 	   | ti. 29.09	 |  S4      |
+| Ch4      | T	  | Introduction to Probabilistic Load and Material Modelling |   K	     | on. 30.09   |	KJL1    |
+| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | fr. 02.10	 |  KJL1    |
