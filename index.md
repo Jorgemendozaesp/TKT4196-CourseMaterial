@@ -19,12 +19,12 @@ Due to the current pandemic, we encourage you to register attendance (every lect
 This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
-## Week 38
+## Week 41
 
-This week we begin a new topic in Chapter 4. Furthermore, we spend two practical sessions working on the 2nd compulsory exercise. To make this as useful as possible for you, make sure that you understand and can reproduce the exercises of Chapter 3. 
+We go through the exercise on Load combination on Tuesday. ON WEDNESDAY THERE IS NO LECTURE. On Friday, you shall spend the lecture time working on the compuslory exercise. You may come to Jorge's office to ask questions should you have them.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| CE2      | P    |	Self study / Q&A Sessions                                 |	  M 	   | ti. 29.09	 |  S4      |
-| Ch4      | T	  | Introduction to Probabilistic Load and Material Modelling |   K	     | on. 30.09   |	KJL1    |
-| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | fr. 02.10	 |  KJL1    |
+| E6.1     | E    |	Exercise on Load combination                              |	  M 	   | ti. 06.10	 |  S4      |
+|          | 	    | No lecture                                                |    	     | on. 07.10   |	        |
+| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | fr. 09.10	 |          |
