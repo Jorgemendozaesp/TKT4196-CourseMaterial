@@ -19,12 +19,12 @@ Due to the current pandemic, we encourage you to register attendance (every lect
 This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
-## Week 41
+## Week 42
 
-We go through the exercise on Load combination on Tuesday. ON WEDNESDAY THERE IS NO LECTURE. On Friday, you shall spend the lecture time working on the compuslory exercise. You may come to Jorge's office to ask questions should you have them.
+We begin with a new chapter: Structural Design Standards, and spend Tuesday and Wednesday with Theory and an application. On Friday, we have a last practical class before the deadline for CE2.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| E6.1     | E    |	Exercise on Load combination                              |	  M 	   | ti. 06.10	 |  S4      |
-|          | 	    | No lecture                                                |    	     | on. 07.10   |	        |
-| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | fr. 09.10	 |          |
+| Ch7      | T    |	Basis of Structural Design Standards                      |	  K 	   | ti. 13.10	 |  S4      |
+| E7.1     | E    | Exercise on design standards                              |   K      | on. 14.10   |	KJL1    |
+| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | fr. 16.10	 |  KJL1    |
