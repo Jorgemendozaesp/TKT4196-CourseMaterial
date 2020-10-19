@@ -19,9 +19,7 @@ Due to the current pandemic, we encourage you to register attendance (every lect
 This helps NTNU inform the corresponding health institution regarding corona cases. 
 
 # NEWS
-## Week 42
-
-We begin with a new chapter: Structural Design Standards, and spend Tuesday and Wednesday with Theory and an application. On Friday, we have a last practical class before the deadline for CE2. 
+## Week 43
 
 I see that many groups are struggling with the 3D plots. I write here a hint to help this part. Assuming that you have a function f1 which outputs the reliability index and inputs as first argument the diameter and as second argument the height, a code to plot the reliability index as a function of the diameter and height is as follows:
 
