@@ -14,6 +14,12 @@ title: INDEX
 # NEWS
 ## Week 43
 
+| Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
+|----------|------|-----------------------------------------------------------|----------|-------------|----------|
+| CE2/CE3  | E    |Solution and discussion CE2/Introduction to CE3 (Code calibration)|	  M 	   | ti. 20.10	 |  S4      |
+|  CE3     | P    |     Self study / Q&A Sessions                             |   M      | on. 21.10	 |  KJL1    |
+|  Ch5     | T    |  Engineering Uncertainty Modelling I                      |   K      | fr. 23.10   |	KJL1    |
+
 I see that many groups are struggling with the 3D plots. I write here a hint to help this part. Assuming that you have a function f1 which outputs the reliability index and inputs as first argument the diameter and as second argument the height, a code to plot the reliability index as a function of the diameter and height is as follows:
 
 ```
@@ -43,8 +49,3 @@ plt.tight_layout()
 plt.show()
 ```
 
-| Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
-|----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| CE2/CE3  | E    |Solution and discussion CE2/Introduction to CE3 (Code calibration)|	  M 	   | ti. 20.10	 |  S4      |
-|  CE3     | P    |     Self study / Q&A Sessions                             |   M      | on. 21.10	 |  KJL1    |
-|  Ch5     | T    |  Engineering Uncertainty Modelling I                      |   K      | fr. 23.10   |	KJL1    |
