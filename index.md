@@ -54,7 +54,6 @@ plt.show()
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| Ch7      | T    |	Basis of Structural Design Standards                      |	  K 	   | ti. 13.10	 |  S4      |
-| CE2      | P	  | Self study / Q&A Sessions                                 |   M      | on. 14.10	 |  KJL1    |
-| E7.1     | E    | Exercise on design standards                              |   K      | fr. 16.10   |	KJL1    |
-
+| CE2/CE3  | E    |Solution and discussion CE2/Introduction to CE3 (Code calibration)|	  M 	   | ti. 20.10	 |  S4      |
+|  CE3     | P    |     Self study / Q&A Sessions                             |   M      | on. 21.10	 |  KJL1    |
+|  Ch5     | T    |  Engineering Uncertainty Modelling I                      |   K      | fr. 23.10   |	KJL1    |
