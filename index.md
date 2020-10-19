@@ -16,7 +16,7 @@ title: INDEX
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-| CE2/CE3  | E    |Solution and discussion CE2/Introduction to CE3 (Code calibration)|	  M 	   | ti. 20.10	 |  S4      |
+| CE2/CE3  | E    |Solution and discussion CE2/Introduction to CE3 (Code calibration)|	  K   | ti. 20.10	 |  S4      |
 |  CE3     | P    |     Self study / Q&A Sessions                             |   M      | on. 21.10	 |  KJL1    |
 |  Ch5     | T    |  Engineering Uncertainty Modelling I                      |   K      | fr. 23.10   |	KJL1    |
 
