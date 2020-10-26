@@ -18,7 +18,7 @@ This week we work on Tuesday and Wednesday on an exercise that deals with inferi
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
-|  E5      | E    |  Exercise on Engineering Uncertainty Modelling (MLE).     |	  K      | ti. 27.10.  |  S4      |
+|  E5      | E    |  Exercise on Engineering Uncertainty Modelling (MLE).     |	  M      | ti. 27.10.  |  S4      |
 |  E5      | P    |     MLE                                                   |   M      | on. 28.10.  |  KJL1    |
 |  CE3     | P    |  Self study / Q&A Sessions.                               |   M      | fr. 30.10   |  KJL1    |
 
