@@ -14,7 +14,7 @@ title: INDEX
 # NEWS
 ## Week 45
 
-This week we work on Tuesday and Wednesday on an exercise that deals with infering the parameters of random variables based on data. The session on Friday is left for group work on the third compulsory.
+The sessions on Tuesday and Friday are left for group work on the third compulsory. Wednesday is dedicated to a new chapter, which deals with System reliability.
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
