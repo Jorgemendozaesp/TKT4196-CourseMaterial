@@ -19,5 +19,6 @@ The sessions on Tuesday and Friday are left for group work on the third compulso
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | Location |
 |----------|------|-----------------------------------------------------------|----------|-------------|----------|
 |  CE3     | P    |  Self study / Q&A Sessions                                |	  M      | ti. 03.11.  |  S4      |
-|  Ch7     | T    |  System reliability                                       |   K      | on. 04.11.  |  KJL1    |
-|  CE3     | P    |  Self study / Q&A Sessions                                |   M      | fr. 06.11.  |  KJL1    |
+|  CE3     | P    |  Self study / Q&A Sessions                                |   M      | on. 04.11.  |  KJL1    |
+|  Ch7     | T    |  System reliability                                       |   K      | fr. 06.11.  |  KJL1    |
+
