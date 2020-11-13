@@ -20,6 +20,6 @@ K = Jochen Köhler; M = Jorge Mendoza
 
 | Compend. | Type |     Topic                                                 |	Lecturer |	Date       | 
 |----------|------|-----------------------------------------------------------|----------|-------------|
-|  ch      | T    |  Engineering decisions under uncertainty                                |	 K      | ti. 17.11.  |  
-|  ch      | T    |  Assessment of existing structures and Value of information             |   K      | on. 18.11.  |  
+|        | T    |  Engineering decisions under uncertainty                                |	 K      | ti. 17.11.  |  
+|        | T    |  Assessment of existing structures and Value of information             |   K      | on. 18.11.  |  
 |  CE4     | P    |  Self study / Q&A Sessions.                                             |   M      | fr. 20.11.  |  
